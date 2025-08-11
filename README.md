@@ -1,6 +1,6 @@
-# CSE 11 Summer Session I 2023 PA2 - Calculator
+# CSE 11 Summer Session II 2025 PA2 - Calculator
 
-**Due date: Sunday, July 16 @ 11:59PM PDT**
+**Due date: Sunday, August 17th @ 11:59PM PDT**
 
 ## Provided Files
 
@@ -175,7 +175,7 @@ public static void main(String[] args) {
 
 ## Submission & Grading
 
-Submit the following file to Gradescope by **Sunday, July 16 @ 11:59PM PDT**.
+Submit the following file to Gradescope by **Sunday, August 17th @ 11:59PM PDT**.
 
 - `Calculator.java`
 
